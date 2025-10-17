@@ -32,35 +32,35 @@
     <section class="books">
         <!-- Book Card -->
         <div class="book-card">
-            <img src="/home/aiktc/RAHIL/48laws.png" alt="48 Laws of Power">
+            <img src="/home/aiktc/RAHIL/48laws.jpeg" alt="48 Laws of Power">
             <h3>THE 48 LAWS OF POWER by ROBERT GREENE</h3>
             <p><span class="old-price">Rs. 899.00</span> <span class="price">Rs. 299.00</span></p>
             <button>Add to cart</button>
         </div>
 
         <div class="book-card">
-            <img src="/home/aiktc/RAHIL/richdad.png" alt="Rich Dad Poor Dad">
+            <img src="/home/aiktc/RAHIL/richdad.jpeg" alt="Rich Dad Poor Dad">
             <h3>RICH DAD POOR DAD By ROBERT KIYOSAKI</h3>
             <p><span class="old-price">Rs. 499.00</span> <span class="price">Rs. 199.00</span></p>
             <button>Add to cart</button>
         </div>
 
         <div class="book-card">
-            <img src="/home/aiktc/RAHIL/thinkingfast.png" alt="Thinking Fast and Slow">
+            <img src="/home/aiktc/RAHIL/thinkingfast.jpeg" alt="Thinking Fast and Slow">
             <h3>THINKING FAST AND SLOW by DANIEL KAHNEMAN</h3>
             <p><span class="old-price">Rs. 499.00</span> <span class="price">Rs. 199.00</span></p>
             <button>Add to cart</button>
         </div>
 
         <div class="book-card">
-            <img src="/home/aiktc/RAHIL/mountain.png" alt="The Mountain Is You">
+            <img src="/home/aiktc/RAHIL/mountain.jpeg" alt="The Mountain Is You">
             <h3>THE MOUNTAIN IS YOU by BRIANNA WIEST</h3>
             <p><span class="old-price">Rs. 599.00</span> <span class="price">Rs. 169.00</span></p>
             <button>Add to cart</button>
         </div>
 
         <div class="book-card">
-            <img src="/home/aiktc/RAHIL/talk.png" alt="How to Talk to Anyone">
+            <img src="/home/aiktc/RAHIL/talk.jpeg" alt="How to Talk to Anyone">
             <h3>HOW TO TALK TO ANYONE by LEIL LOWNDES</h3>
             <p><span class="old-price">Rs. 499.00</span> <span class="price">Rs. 269.00</span></p>
             <button>Add to cart</button>
